@@ -1,0 +1,48 @@
+html{
+    background-color: aqua;
+}
+
+h1{
+    color: rgb(11, 11, 223);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+.ingress{ 
+    color:black;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 100%;
+    font-style: normal;
+    font-weight: bold;
+}
+#mainContent{
+    background-color: gray;
+    height: 100vh;
+}
+.link{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    
+}
+
+.link a{
+    text-decoration: none;
+    color: red;
+    font-size: 16px;
+}
+.link a:hover{
+    color: black;
+
+}
+
+
+
+
+
+    
+
+    

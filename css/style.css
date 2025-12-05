@@ -1,0 +1,16 @@
+article, footer{
+    width: 80%;
+    margin: auto;
+    background-color: red;
+}
+.bildetilvenstre{
+    height:10em;
+    float:left;
+}
+.bildetilhøyre{
+    height: 10em;
+    float: right;
+}
+code{
+    font-size:2em;
+}
